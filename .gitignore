@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# Backup files created by Obsidian (if any)
+*.bak
+*.swp
+
+# Files related to plugins or caches
+cache/
+log/
+
+# Exclude vault-specific files (optional, adjust based on your setup)
+.vault-id
+
+# Ignore hidden folders or files
+*/.*
+
+# Add .gitkeep to track empty directories (optional)
+*.gitkeep
+
