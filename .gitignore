@@ -11,10 +11,3 @@ log/
 
 # Exclude vault-specific files (optional, adjust based on your setup)
 .vault-id
-
-# Ignore hidden folders or files
-*/.*
-
-# Add .gitkeep to track empty directories (optional)
-*.gitkeep
-
