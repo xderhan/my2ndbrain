@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f48a18ad2ed069",
+        "id": "8119371426d5949c",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c8da072fc6a335",
+            "id": "a1b48691ef53705b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 DOMAINS/AHAK/MINGGU 14/Regulasi Sengketa di Indonesia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Regulasi Sengketa di Indonesia"
-            }
-          },
-          {
-            "id": "1e1103c2cf2901a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Regulasi Sengketa di Indonesia"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Regulasi Sengketa di Indonesia"
+              "title": "Outline"
             }
           },
           {
@@ -211,14 +191,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1103c2cf2901a6",
+  "active": "a1b48691ef53705b",
   "lastOpenFiles": [
     "02 DOMAINS/AHAK/MINGGU 14/Regulasi Sengketa di Indonesia.md",
     "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf",
+    "03 RESOURCES/EXPORTS/Rekayasa Nilai Berkelanjutan.pdf",
+    "03 RESOURCES/ZOTERO/NOTES/@10.33592_islamika.v13i1.151.md",
     "03 RESOURCES/EXPORTS/Manajemen Sengketa.pdf",
     "02 DOMAINS/AHAK/MINGGU 13/Manajemen Sengketa.md",
     "02 DOMAINS/SRN/MINGGU 14/Rekayasa Nilai Berkelanjutan.md",
-    "03 RESOURCES/EXPORTS/Rekayasa Nilai Berkelanjutan.pdf",
     "02 DOMAINS/SRN/MINGGU 14/My Library.bib",
     "03 RESOURCES/SRN/MINGGU 14/Rachwan, et al, 2016. VE and Sustainability Considerations.pdf",
     "03 RESOURCES/AHAK/MINGGU 14/UU_1999_30.pdf",
@@ -247,7 +228,6 @@
     "03 RESOURCES/ZOTERO/NOTES/@M_O_Ahmed_2023.md",
     "03 RESOURCES/ZOTERO/NOTES/@P_M_Silva_2023.md",
     "03 RESOURCES/ZOTERO/NOTES/@E_M_Soliman_2023.md",
-    "03 RESOURCES/ZOTERO/NOTES/@M_Jagannathan_2021.md",
     "04 FLEETING/Untitled.canvas"
   ]
 }
