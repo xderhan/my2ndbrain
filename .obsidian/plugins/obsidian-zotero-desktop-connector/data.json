@@ -1,0 +1,26 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "03 RESOURCES/ZOTERO",
+  "pdfExportImageDPI": 300,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import Zotero",
+      "outputPathTemplate": "03 RESOURCES/ZOTERO/NOTES/@{{citekey}}.md",
+      "imageOutputPathTemplate": "03 RESOURCES/ZOTERO/IMAGES/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "03 RESOURCES/ZOTERO/ZOTERO_IMPORT.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes"
+}

@@ -6,5 +6,10 @@
   "obsidian-icon-folder",
   "tag-wrangler",
   "obsidian-excalidraw-plugin",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-pandoc-reference-list",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-citation-plugin",
+  "mini-vimrc"
 ]

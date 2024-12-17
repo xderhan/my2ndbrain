@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "03 RESOURCES/ZOTERO/NOTES",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n# {{title}}\n\n## Abstrak\n\n{{abstract}}\n\n## Notes\n\n{{note}}\n\n## Topik\n\n\n\n## Masalah\n\n\n\n## Tujuan\n\n\n\n## Teori\n\n\n\n## Hal Baru\n\n\n\n## Metode\n\n\n\n## Saran untuk Judul Penelitian Selanjutnya",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/sederhanagulo/Library/Mobile Documents/iCloud~md~obsidian/Documents/My Library.bib"
+}

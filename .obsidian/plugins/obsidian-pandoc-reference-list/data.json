@@ -1,0 +1,13 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/sederhanagulo/Library/Mobile Documents/iCloud~md~obsidian/Documents/My Library.bib",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "cslLang": "id-ID",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

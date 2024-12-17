@@ -4,20 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "95cfbdfff7966be8",
+        "id": "a2f48a18ad2ed069",
         "type": "tabs",
         "children": [
           {
-            "id": "4236e083353dd3b9",
+            "id": "f1c8da072fc6a335",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 DOMAINS/AHAK/MINGGU 14/Regulasi Sengketa di Indonesia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Regulasi Sengketa di Indonesia"
+            }
+          },
+          {
+            "id": "1e1103c2cf2901a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Regulasi Sengketa di Indonesia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -133,9 +150,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Regulasi Sengketa di Indonesia"
             }
           },
           {
@@ -161,14 +180,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "b8a180d086565e88",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 383
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,26 +211,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd5310d8a9de68cd",
+  "active": "1e1103c2cf2901a6",
   "lastOpenFiles": [
-    "README.md",
-    "06 DAILY/2024-12-07.md",
-    "06 DAILY/TEMPLATES/Daily Note Template.md",
-    "04 FLEETING/Untitled.canvas",
-    "06 DAILY/2024-12-06.md",
-    "03 RESOURCES/EXCALIDRAW/Drawing 2024-12-07 10.23.37.excalidraw.md",
-    "03 RESOURCES/EXCALIDRAW/Drawing 2024-12-07 10.14.53.excalidraw.md",
-    "03 RESOURCES/EXCALIDRAW/TEMPLATES/Template.excalidraw.md",
-    "06 DAILY/TEMPLATES",
-    "03 RESOURCES/EXCALIDRAW/SCRIPTS",
-    "03 RESOURCES/EXCALIDRAW/TEMPLATES",
-    "03 RESOURCES/EXCALIDRAW/IMAGES",
-    "03 RESOURCES/EXCALIDRAW/CROPPED",
-    "03 RESOURCES/EXCALIDRAW",
-    "Welcome.md",
-    "03 RESOURCES/TEMPLATES",
-    "99 META",
-    "07 ARCHIVES",
-    "06 DAILY"
+    "02 DOMAINS/AHAK/MINGGU 14/Regulasi Sengketa di Indonesia.md",
+    "03 RESOURCES/EXPORTS/Regulasi Sengketa di Indonesia.pdf",
+    "03 RESOURCES/EXPORTS/Manajemen Sengketa.pdf",
+    "02 DOMAINS/AHAK/MINGGU 13/Manajemen Sengketa.md",
+    "02 DOMAINS/SRN/MINGGU 14/Rekayasa Nilai Berkelanjutan.md",
+    "03 RESOURCES/EXPORTS/Rekayasa Nilai Berkelanjutan.pdf",
+    "02 DOMAINS/SRN/MINGGU 14/My Library.bib",
+    "03 RESOURCES/SRN/MINGGU 14/Rachwan, et al, 2016. VE and Sustainability Considerations.pdf",
+    "03 RESOURCES/AHAK/MINGGU 14/UU_1999_30.pdf",
+    "03 RESOURCES/SRN/MINGGU 14",
+    "03 RESOURCES/SRN",
+    "02 DOMAINS/SRN/MINGGU 14",
+    "02 DOMAINS/SRN",
+    "03 RESOURCES/ZOTERO/NOTES/@Reza_Fahmi_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@Basuki_Rekso_Wibowo_2004.md",
+    "03 RESOURCES/ZOTERO/ZOTERO_IMPORT.md",
+    "03 RESOURCES/ZOTERO/NOTES/@A_C_Irawati_2023.md",
+    "00 MAP/Manajemen Sengketa.md",
+    "03 RESOURCES/ZOTERO/NOTES/@R_M_O_H_Bandara_2024.md",
+    "03 RESOURCES/ZOTERO/NOTES/@V_Jackson_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@M_Francis_2022.md",
+    "03 RESOURCES/ZOTERO/NOTES/@U_Quapp_2020.md",
+    "03 RESOURCES/ZOTERO/NOTES/@S_Lin_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@S_I_Derkach_2024.md",
+    "03 RESOURCES/ZOTERO/NOTES/@A_N_K_K_Gamage_2024.md",
+    "@Y_J_Gandu_2023; @W_A_Kukoyi_2024.md",
+    "03 RESOURCES/ZOTERO/NOTES/@Decision_supporting_flow_chart_for_dispute_resolution_2022.md",
+    "03 RESOURCES/ZOTERO/NOTES/@Y_J_Gandu_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@W_A_Kukoyi_2024.md",
+    "03 RESOURCES/ZOTERO/NOTES/@D_L_Wati_2024.md",
+    "03 RESOURCES/ZOTERO/NOTES/@A_J_Arar_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@M_O_Ahmed_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@P_M_Silva_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@E_M_Soliman_2023.md",
+    "03 RESOURCES/ZOTERO/NOTES/@M_Jagannathan_2021.md",
+    "04 FLEETING/Untitled.canvas"
   ]
 }
